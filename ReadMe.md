@@ -1,5 +1,5 @@
 # 💫 About Me:
-ABOUT ME~~<br>HEY THERE!!<br>I am Akshra Verma, a pre-final year student pursuing computer science with AI/ML specialization.<br>An AI/ML enthusiast with knowledge in DSA and data analysis. Passionate front-end development abilities<br>with knowledge of UI/UX design. <br><br>Currently working on new skills-:<br>*React Node Js<br>*R programming <br><br>Ongoing projects~~<br>*Portfolio using react, HTML/CSS, javascript<br>*Detection of pulmonary and cardiovascular disease using YOLOv7 and CNN<br><br><br><br><br><br><br> 
+ABOUT ME~~<br>HEY THERE!!<br>I am Akshra Verma, a pre-final year student pursuing computer science with AI/ML specialization.<br>An AI/ML enthusiast with knowledge in DSA and data analysis. Passionate front-end development abilities<br>with knowledge of UI/UX design. <br><br>Currently working on new skills-:<br>*React Node Js<br>*R programming <br><br>
 
 
 ## 🌐 Socials:
