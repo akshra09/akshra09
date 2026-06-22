@@ -1,5 +1,10 @@
 # 💫 About Me:
-ABOUT ME~~<br>HEY THERE!!<br>I am Akshra Verma, a pre-final year student pursuing computer science with AI/ML specialization.<br>An AI/ML enthusiast with knowledge in DSA and data analysis. Passionate front-end development abilities<br>with knowledge of UI/UX design. <br><br>Currently working on new skills-:<br>*React Node Js<br>*R programming <br><be>
+<br><be>Hi, I'm Akshra 👋
+I'm a Machine Learning and Data Science enthusiast passionate about building intelligent systems that solve real-world problems. My interests span Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Graph Neural Networks (GNNs), Natural Language Processing, and Computer Vision.
+
+I enjoy transforming ideas into practical projects, from deepfake detection and fake news analysis to recommendation systems, network analysis, and AI-powered applications. I'm constantly learning, experimenting with new technologies, and contributing to open-source projects while strengthening my foundations in mathematics, statistics, and AI research.
+
+Currently, I'm focused on advancing my expertise in AI/ML, quantitative finance, and scalable machine learning systems while building a strong portfolio of impactful projects. <br><be>
 
 
 ## 🌐 Socials:
